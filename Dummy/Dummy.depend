@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1664259330 source:c:\src\bgsw\dummy\main.c
-	<stdio.h>
-	<stdlib.h>
-	"myMath.h"
-
-1664259463 c:\src\bgsw\dummy\mymath.h
-
